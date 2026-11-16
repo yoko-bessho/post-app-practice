@@ -1,0 +1,57 @@
+<mxfile host="65bd71144e">
+    <diagram name="ページ-1" id="Qb2bPEpQ2BOyZPgXOSam">
+        <mxGraphModel dx="693" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2ra15_NdT-MMkEm20RUx-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" value="投稿アプリ" vertex="1">
+                    <mxGeometry height="590" width="360" x="340" y="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="2ra15_NdT-MMkEm20RUx-19" edge="1" parent="1" source="2ra15_NdT-MMkEm20RUx-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="2ra15_NdT-MMkEm20RUx-6">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="300" y="470" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2ra15_NdT-MMkEm20RUx-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="ログイン済み利用者&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="30" x="70" y="390" as="geometry"/>
+                </mxCell>
+                <mxCell id="2ra15_NdT-MMkEm20RUx-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="投稿を閲覧する" vertex="1">
+                    <mxGeometry height="80" width="286" x="354" y="350" as="geometry"/>
+                </mxCell>
+                <mxCell id="2ra15_NdT-MMkEm20RUx-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="ログアウトする" vertex="1">
+                    <mxGeometry height="80" width="286" x="354" y="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="2ra15_NdT-MMkEm20RUx-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="投稿を編集する" vertex="1">
+                    <mxGeometry height="80" width="300" x="360" y="440" as="geometry"/>
+                </mxCell>
+                <mxCell id="2ra15_NdT-MMkEm20RUx-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="投稿を削除する" vertex="1">
+                    <mxGeometry height="80" width="270" x="370" y="540" as="geometry"/>
+                </mxCell>
+                <mxCell id="2ra15_NdT-MMkEm20RUx-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="ログインする" vertex="1">
+                    <mxGeometry height="80" width="286" x="354" y="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="2ra15_NdT-MMkEm20RUx-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="ユーザー登録する" vertex="1">
+                    <mxGeometry height="80" width="286" x="350" y="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="2ra15_NdT-MMkEm20RUx-15" edge="1" parent="1" source="2ra15_NdT-MMkEm20RUx-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="2ra15_NdT-MMkEm20RUx-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2ra15_NdT-MMkEm20RUx-10" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="訪問者" vertex="1">
+                    <mxGeometry height="60" width="30" x="69" y="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="2ra15_NdT-MMkEm20RUx-14" edge="1" parent="1" source="2ra15_NdT-MMkEm20RUx-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.037;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="2ra15_NdT-MMkEm20RUx-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2ra15_NdT-MMkEm20RUx-16" edge="1" parent="1" source="2ra15_NdT-MMkEm20RUx-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="2ra15_NdT-MMkEm20RUx-5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2ra15_NdT-MMkEm20RUx-17" edge="1" parent="1" source="2ra15_NdT-MMkEm20RUx-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.031;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="2ra15_NdT-MMkEm20RUx-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2ra15_NdT-MMkEm20RUx-20" edge="1" parent="1" source="2ra15_NdT-MMkEm20RUx-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.011;entryY=0.613;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="2ra15_NdT-MMkEm20RUx-7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
